@@ -25,7 +25,7 @@ white: empty
 - right: graph of jailed agents (green) and active agents (red) as a function of time steps.
 
 
-  How to run simulations from implementation 2:
+How to run simulations from implementation 2:
 - download the three files (simulations.py, Epstein_model.py, foncions.py) in the same folder
 - open the terminal there
 - type "simulations.py"
