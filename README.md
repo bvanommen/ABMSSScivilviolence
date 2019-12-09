@@ -4,7 +4,7 @@ Agent Bases Modelling eth civil violence
   Structure:
 Three different implementations exist
 
-Implementation 1 (Main Implementation) is the main implementation, and is the most user friendly featuring a UI and live simulation. It should be run to recreate some of the basic results from Epstein's paper.
+Implementation 1 (Main Implementation) is the main implementation, and is the most user friendly featuring a UI and live simulation. It should be run to recreate some of the basic results from Epstein's paper. To run the main implementation, execute "python main.py" to start.
 Implementation 1 has some alternative implementations:
 - an extension for global access to information (media)
 - a corrected version for the floor() (legitimacy fluctuations)
